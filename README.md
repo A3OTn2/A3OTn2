@@ -1,16 +1,57 @@
-## Прооооофиль :)👋
-### Скоро тут будет красиво 
-<!--
-**A3OTn2/A3OTn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm a3ot
 
-Here are some ideas to get you started:
+### `Information Security · OSINT · Red Team · DevOps`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Interested in web security, OSINT, and CTFs.
+>
+> I enjoy turning scattered data and tools into clear, practical, and convenient systems.
+
+---
+
+## 🧑‍💻 About Me
+
+* 🛡️ **Red Team** — web security and vulnerability research
+* ⚙️ **DevOps** — deploying and maintaining my own projects
+* 🚩 **CTF** — Web, OSINT, File, and Steganography
+* 🐍 Main programming language — **Python**
+* 💻 Currently learning **C++**
+* 🎨 Also interested in 3D printing, digital design, and video
+
+---
+
+## 🚩 CTF
+
+### 🏆 Russian CTF Cup 2025
+
+**September 2025**
+`Web` · `OSINT` · `Steganography`
+
+### 🟥 Alfa CTF 2025
+
+**September 2025**
+`Web` · `OSINT`
+
+### 🟥 Alfa CTF 2026
+
+**April 2026**
+`Web` · `OSINT` · `File`
+
+### brunnerctf CTF 2026
+
+**August 2026**
+`Web` · `OSINT` · `File` · `Forensics` · `Steganography`
+
+My main roles in CTF teams are **Web / OSINT / Forensics / Steganography**.
+
+---
+
+## 🎓 Education
+
+**Additional Education:**
+
+* Moscow School of Programmers — `2022–2024`
+* Self-taught C++ development
+* Self-taught Information Security
+* letoCTF `2026` — both shifts
+
+### `Stay curious. Find the trace. 🕵️`
