@@ -41,6 +41,11 @@
 **August 2026**
 `Web` · `OSINT` · `File` · `Forensics` · `Steganography`
 
+### inno CTF 2026
+
+**October 2026**
+`Steganography`
+
 My main roles in CTF teams are **Web / OSINT / Forensics / Steganography**.
 
 ---
