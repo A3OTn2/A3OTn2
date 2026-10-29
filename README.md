@@ -9,9 +9,6 @@
 
 ```
 
-![Banner](banner.jpg)
----
-
 ## About Me
 
 **Red Team** — web security and vulnerability research
