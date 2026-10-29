@@ -2,10 +2,7 @@
 
 ### `Information Security · OSINT · Red Team · DevOps`
 
-> Interested in web security, OSINT, and CTFs.
->
-> I enjoy turning scattered data and tools into clear, practical, and convenient systems.
-
+![Banner](banner.jpg)
 ---
 
 ## 🧑‍💻 About Me
