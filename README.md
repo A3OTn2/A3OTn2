@@ -33,10 +33,6 @@
 ## CTF Experience
 
 <p align="center">
-  <img src="banner.jpg" alt="Pixel-art sunset with a shooting star" width="900" />
-</p>
-
-<p align="center">
   <strong>Chasing flags between the sunset and the stars</strong><br />
   <sub>My main roles in CTF teams</sub><br /><br />
   <img src="https://img.shields.io/badge/Web-ff6b9d?style=flat-square&labelColor=241b35" alt="Web" />
@@ -52,11 +48,16 @@
 | **Alfa CTF 2026** | `April 2026` | `Web` · `OSINT` · `File` |
 | **brunnerctf CTF 2026** | `August 2026` | `Web` · `OSINT` · `File` · `Forensics` · `Steganography` |
 | **inno CTF 2026** | `October 2026` | `Steganography` |
+| **Russian CTF Cup 2026** | `October 2025` | `Web` · `OSINT` · `Steganography` |
+
 
 <p align="center">
   <sub>✦ Web · OSINT · Forensics · Steganography ✦</sub>
 </p>
 
 ---
+<p align="center">
+  <img src="banner.jpg" alt="Pixel-art sunset with a shooting star" width="900" />
+</p>
 
 ### `Stay curious. Find the trace.`
